@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, I'm Abdullah Shah</h1>
+<h1 align="center">Hi, I'm Abdullah Shah</h1>
 
 <p align="center">
-  3rd Year Computer Science Student @ University of Victoria <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+%26+Systems+Enthusiast;Computer+Science+Student+@+UVic;Future+Software+Engineer;Always+Learning+%F0%9F%9A%80&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  🎓 University of Victoria • 3rd Year CS <br>
 </p>
 
 ---
 
 <p align="center">
   <a href="mailto:abdullahshahoct@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-
 
 ## 🛠 Tech Stack
 
@@ -25,7 +27,7 @@
 
 ---
 
-## 🧩 Tools & Technologies
+## ⚙️ Tools & Environment
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
@@ -34,3 +36,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
 </p>
 
+---
+
+## 📌 Featured Projects
+
+### 🔍 Anomaly Detection System
+- High-throughput system handling **10K+ logs/min**
+- Detects anomalies in latency, failures, and system metrics
+
+### 🧠 HireLens
+- NLP-powered resume-job matching
+- Generates structured job-fit scoring
+---
