@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdullah Shah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+%26+Systems+Enthusiast;Computer+Science+Student+@+UVic;Future+Software+Engineer;Always+Learning+%F0%9F%9A%80&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/Computer+Science+Student+@+UVic%F0%9F%9A%80&center=true&width=500&height=45">
 </p>
 
 <p align="center">
