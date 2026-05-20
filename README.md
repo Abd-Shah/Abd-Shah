@@ -37,14 +37,3 @@
 </p>
 
 ---
-
-## 📌 Featured Projects
-
-###  Anomaly Detection System
-- High-throughput system handling **10K+ logs/min**
-- Detects anomalies in latency, failures, and system metrics
-
-###  HireLens
-- NLP-powered resume-job matching
-- Generates structured job-fit scoring
----
