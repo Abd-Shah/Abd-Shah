@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Shah</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="500" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif" width="500" alt="Coding GIF"/>
 </p>
 
 <p align="center">
