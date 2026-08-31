@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah Shah</h1>
 
 <p align="center">
-  <img src="(https://giphy.com/gifs/stikbotcentral-stopmotion-stikbot-stikbots-d3tWybTneNwji5YVTs)" width="650" alt="Coding Animation"/>
+  <img src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="500" alt="Coding GIF"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Developer;AI+%26+Machine+Learning;Building+Scalable+Software;Always+Learning+%26+Building" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -78,74 +82,6 @@
 - 📊 **Data & ML Systems** — transforming data into intelligent, automated solutions
 
 I particularly enjoy projects where **software engineering meets AI** — taking an idea from architecture and backend development to an actual deployed product.
-
----
-
-## 📌 Featured Projects
-
-### 🤖 RepoPilot
-
-**AI-Powered Software Engineering Assistant**
-
-A developer tool designed to analyze software repositories and reported issues, identify relevant source code, build contextual information, and assist with understanding software problems.
-
-**Tech:** `Python` `FastAPI` `LLMs` `REST APIs` `Docker`
-
----
-
-### 🛡️ SentinelX
-
-**Real-Time ML Anomaly Detection System**
-
-A machine learning system designed to process high-volume telemetry data and detect unusual patterns and anomalies in real time.
-
-**Tech:** `Python` `Scikit-learn` `Machine Learning` `Data Processing`
-
----
-
-### 📄 HireLens
-
-**AI-Powered Resume Analysis Platform**
-
-An intelligent application that evaluates resumes against job descriptions across multiple dimensions and generates structured insights into alignment and potential improvements.
-
-**Tech:** `Python` `Streamlit` `AI` `NLP` `APIs`
-
----
-
-### 🪐 ExoVision
-
-**Exoplanet Data Analysis Platform**
-
-A software platform built to process and analyze large astronomical time-series datasets through backend APIs and data-processing pipelines.
-
-**Tech:** `Python` `FastAPI` `Docker` `GitHub Actions` `Data Processing`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abd-Shah&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-Shah&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abd-Shah&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🧠 Currently Exploring
-
-```text
-System Design        █████████████████░░░
-Artificial Intelligence
-Cloud Architecture
-Distributed Systems
-Machine Learning
-DevOps & CI/CD
-```
 
 ---
 
